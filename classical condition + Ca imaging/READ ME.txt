@@ -1,0 +1,3 @@
+Code used for data analysis in a classical conditioning task 
+
+This code assumes a you begin with a dF/F matrix and behavioural data acquired through wavesurfer in HD5 format. The behavioural data includes tone input, water delivery time and liking data. These must be time locked during the experiment
