@@ -14,7 +14,7 @@ save_path = 'C:\Users\';
 save = 'n';
 
 %% if you want to specify trials 
-trials_for_plot = [14 3 4 5 6 7 8 9 13 11 20];
+trials_for_plot = 1:11;
 num_trials_plot = length(trials_for_plot);
 
 %% parameters
